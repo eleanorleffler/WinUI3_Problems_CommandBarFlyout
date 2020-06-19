@@ -7,4 +7,4 @@ The UWP sample code only displays the AppBarButton icon, which is expected.
 
 However, the WinUI3 Desktop sample code displays an additional ">" or arrow next to the AppBarButton icon, which is unexpected.
 
-For more details about the WinUI issue, go to the issue [here](** Insert link here ).
+For more details about the WinUI issue, go to the issue [here](https://github.com/microsoft/microsoft-ui-xaml/issues/2714).
